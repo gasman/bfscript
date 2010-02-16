@@ -22,8 +22,11 @@ Example
 
 Further reading
 ---------------
-Inspired by AvastScript: http://github.com/tobeytailor/avastscript
-Brainfuck: http://esolangs.org/wiki/Brainfuck
 
-matt@west.co.tt - http://matt.west.co.tt
-Follow me on Twitter: http://twitter.com/westdotcodottt
+* Inspired by [AvastScript by tobeytailor](http://github.com/tobeytailor/avastscript).
+* [Brainfuck on the Esolang wiki](http://esolangs.org/wiki/Brainfuck)
+
+Author
+------
+* [Matt Westcott](http://matt.west.co.tt) - matt@west.co.tt
+* [Follow me on Twitter](http://twitter.com/westdotcodottt)
